@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "NT-MoonSmp.aternos.me",
+    "port": 21554,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Subscribe to DRC PlayzZ!",
         "I like to play Minecraft!"
       ]
     },
