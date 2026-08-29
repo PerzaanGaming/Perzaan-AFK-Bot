@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Better_Golden_SMP.aternos.me",
+    "port": 62078,
     "version": "1.21.1"
   },
   "position": {
