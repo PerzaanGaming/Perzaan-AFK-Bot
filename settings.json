@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "blackthornsmp.aternos.me",
+    "port": 55899,
     "version": "1.21.1"
   },
   "position": {
