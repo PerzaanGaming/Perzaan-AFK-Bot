@@ -6,8 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "BloxKing-cnMP.aternos.me",
+    "port": 55607,
+
+
     "version": "1.21.1"
   },
   "position": {
