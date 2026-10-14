@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "budox",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "DisruptOfTheDoom9.aternos.me",
+    "port": 19412,
     "version": "1.21.1"
   },
   "position": {
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
